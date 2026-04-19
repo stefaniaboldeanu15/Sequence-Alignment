@@ -1,0 +1,178 @@
+Dataset: data/raw/globins.fasta
+Sequences loaded: 6
+Scoring: match=1, mismatch=-1, gap=-1
+
+HBA_HUMAN length = 142
+HBB_HUMAN length = 147
+MYG_HUMAN length = 154
+HBA_MOUSE length = 142
+MYG_MOUSE length = 154
+HBA_HORSE length = 142
+
+Total pairwise alignments: 15
+
+================================================================================
+HBA_HUMAN  vs  HBB_HUMAN
+Score: 7
+Local coordinates seq1: 83..102
+Local coordinates seq2: 88..107
+LSDLHAHKLRVDPVNFKLL
+LSELHCDKLHVDPENFRLL
+Matches: 13
+Mismatches: 6
+Gaps: 0
+
+================================================================================
+HBA_HUMAN  vs  MYG_HUMAN
+Score: 4
+Local coordinates seq1: 14..18
+Local coordinates seq2: 14..18
+WGKV
+WGKV
+Matches: 4
+Mismatches: 0
+Gaps: 0
+
+================================================================================
+HBA_HUMAN  vs  HBA_MOUSE
+Score: 104
+Local coordinates seq1: 0..142
+Local coordinates seq2: 0..142
+MVLSPADKTNVKAAWGKVGAH-AGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVA-HVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR
+MVLSGEDKSNIKAAWGKIGGHGA-EYGAEALERMFASFPTTKTYFPHFDVSHGSAQVKGHGKKVADALASA-AGHLDDLPGALSALSDLHAHKLRVDPVNFKLLSHCLLVTLASHHPADFTPAVHASLDKFLASVSTVLTSKYR
+Matches: 124
+Mismatches: 16
+Gaps: 4
+
+================================================================================
+HBA_HUMAN  vs  MYG_MOUSE
+Score: 4
+Local coordinates seq1: 14..18
+Local coordinates seq2: 14..18
+WGKV
+WGKV
+Matches: 4
+Mismatches: 0
+Gaps: 0
+
+================================================================================
+HBA_HUMAN  vs  HBA_HORSE
+Score: 108
+Local coordinates seq1: 0..142
+Local coordinates seq2: 0..142
+MVLSPADKTNVKAAWGKVGAHAGEYGAEALERMFLSFPTTKTYFPHFDLSHGSAQVKGHGKKVADALTNAVAHVDDMPNALSALSDLHAHKLRVDPVNFKLLSHCLLVTLAAHLPAEFTPAVHASLDKFLASVSTVLTSKYR
+MVLSAADKTNVKAAWSKVGGHAGEYGAEALERMFLGFPTTKTYFPHFDLSHGSAQVKAHGKKVGDALTLAVGHLDDLPGALSNLSDLHAHKLRVDPVNFKLLSHCLLSTLAVHLPNDFTPAVHASLDKFLSSVSTVLTSKYR
+Matches: 125
+Mismatches: 17
+Gaps: 0
+
+================================================================================
+HBB_HUMAN  vs  MYG_HUMAN
+Score: 4
+Local coordinates seq1: 15..19
+Local coordinates seq2: 14..18
+WGKV
+WGKV
+Matches: 4
+Mismatches: 0
+Gaps: 0
+
+================================================================================
+HBB_HUMAN  vs  HBA_MOUSE
+Score: 8
+Local coordinates seq1: 60..107
+Local coordinates seq2: 55..102
+VKAHGKKVLGA-FS-DGLAHLDNLKG-TFATLSELHCDKLHVDPENFRLL
+VKGHGKKVADALASAAG--HLDDLPGALSA-LSDLHAHKLRVDPVNFKLL
+Matches: 29
+Mismatches: 15
+Gaps: 6
+
+================================================================================
+HBB_HUMAN  vs  MYG_MOUSE
+Score: 4
+Local coordinates seq1: 15..19
+Local coordinates seq2: 14..18
+WGKV
+WGKV
+Matches: 4
+Mismatches: 0
+Gaps: 0
+
+================================================================================
+HBB_HUMAN  vs  HBA_HORSE
+Score: 10
+Local coordinates seq1: 60..107
+Local coordinates seq2: 55..102
+VKAHGKKVLG-AFSDGLA--HLDNLKGTFATLSELHCDKLHVDPENFRLL
+VKAHGKKV-GDA--LTLAVGHLDDLPGALSNLSDLHAHKLRVDPVNFKLL
+Matches: 30
+Mismatches: 14
+Gaps: 6
+
+================================================================================
+MYG_HUMAN  vs  HBA_MOUSE
+Score: 4
+Local coordinates seq1: 67..71
+Local coordinates seq2: 134..138
+TVLT
+TVLT
+Matches: 4
+Mismatches: 0
+Gaps: 0
+
+================================================================================
+MYG_HUMAN  vs  MYG_MOUSE
+Score: 106
+Local coordinates seq1: 0..154
+Local coordinates seq2: 0..154
+MGLSDGEWQLVLNVWGKVEADIPGHGQEVLIRLFKGHPETLEKFDKFKHLKS-EDEMKASEDLKKHGATVLTALGGILKKKGHHEAEIKPLAQSHATKHKIPVKYLEFISECIIQVLQSK-HPGDFGADAQGAMNKALELFRKDMASNYKELGFQG
+MGLSDGEWQLVLNVWGKVEADLAGHGQEVLIGLFKTHPETLDKFDKFKNLKSEED-MKGSEDLKKHGCTVLTALGTILKKKGQHAAEIQPLAQSHATKHKIPVKYLEFISEIIIEVL-KKRHSGDFGADAQGAMSKALELFRNDIAAKYKELGFQG
+Matches: 131
+Mismatches: 21
+Gaps: 4
+
+================================================================================
+MYG_HUMAN  vs  HBA_HORSE
+Score: 4
+Local coordinates seq1: 67..71
+Local coordinates seq2: 134..138
+TVLT
+TVLT
+Matches: 4
+Mismatches: 0
+Gaps: 0
+
+================================================================================
+HBA_MOUSE  vs  MYG_MOUSE
+Score: 4
+Local coordinates seq1: 61..68
+Local coordinates seq2: 16..23
+KV-ADALA
+KVEAD-LA
+Matches: 6
+Mismatches: 0
+Gaps: 2
+
+================================================================================
+HBA_MOUSE  vs  HBA_HORSE
+Score: 99
+Local coordinates seq1: 0..142
+Local coordinates seq2: 0..142
+MVLSGEDKSNIKAAWGKIGGH-GAEYGAEALERMFASFPTTKTYFPHFDVSHGSAQVKGHGKKVADALASAAGHLDDLPGALSALSDLHAHKLRVDPVNFKLLSHCLLVTLASHHPADFTPAVHASLDKFLASVSTVLTSKYR
+MVLSAADKTNVKAAWSKVGGHAG-EYGAEALERMFLGFPTTKTYFPHFDLSHGSAQVKAHGKKVGDALTLAVGHLDDLPGALSNLSDLHAHKLRVDPVNFKLLSHCLLSTLAVHLPNDFTPAVHASLDKFLSSVSTVLTSKYR
+Matches: 121
+Mismatches: 20
+Gaps: 2
+
+================================================================================
+MYG_MOUSE  vs  HBA_HORSE
+Score: 4
+Local coordinates seq1: 40..44
+Local coordinates seq2: 125..129
+LDKF
+LDKF
+Matches: 4
+Mismatches: 0
+Gaps: 0
+

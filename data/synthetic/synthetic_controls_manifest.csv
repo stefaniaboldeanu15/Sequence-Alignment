@@ -1,0 +1,6 @@
+sequence_id,edit_type,description
+SYN_VAR1,none,identical copy of SYN_BASE
+SYN_VAR2,SNP,one nucleotide substitution near the end of the sequence
+SYN_VAR3,deletion,small deletion in the later region of the sequence
+SYN_VAR4,insertion_or_local_edit,small local edit in the later region
+SYN_VAR5,extension,additional bases added at the end

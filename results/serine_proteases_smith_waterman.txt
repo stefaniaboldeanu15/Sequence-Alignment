@@ -1,0 +1,77 @@
+Dataset: data/raw/serine_proteases.fasta
+Sequences loaded: 4
+Scoring: match=1, mismatch=-1, gap=-1
+
+TRY1_HUMAN length = 247
+CTRB2_HUMAN length = 263
+CEL2A_HUMAN length = 269
+ELNE_HUMAN length = 267
+
+Total pairwise alignments: 6
+
+================================================================================
+TRY1_HUMAN  vs  CTRB2_HUMAN
+Score: 11
+Local coordinates seq1: 45..64
+Local coordinates seq2: 57..76
+HFCGGSLINEQWVVSAGHC
+HFCGGSLISEDWVVTAAHC
+Matches: 15
+Mismatches: 4
+Gaps: 0
+
+================================================================================
+TRY1_HUMAN  vs  CEL2A_HUMAN
+Score: 8
+Local coordinates seq1: 32..53
+Local coordinates seq2: 37..63
+NSVPYQVSL--NS-G--YHFCGGSLI
+NSWPWQVSLQYSSNGKWYHTCGGSLI
+Matches: 17
+Mismatches: 4
+Gaps: 5
+
+================================================================================
+TRY1_HUMAN  vs  ELNE_HUMAN
+Score: 7
+Local coordinates seq1: 197..208
+Local coordinates seq2: 199..210
+GDSGGPVVCNG
+GDSGSPLVCNG
+Matches: 9
+Mismatches: 2
+Gaps: 0
+
+================================================================================
+CTRB2_HUMAN  vs  CEL2A_HUMAN
+Score: 18
+Local coordinates seq1: 197..236
+Local coordinates seq2: 199..240
+MICAGASGV-SSCMGDSGGPLVCQ-KDGAWTLV-GIVSWGSR
+MICAGGDGVISSCNGDSGGPLNCQASDGRW-QVHGIVSFGSR
+Matches: 30
+Mismatches: 8
+Gaps: 4
+
+================================================================================
+CTRB2_HUMAN  vs  ELNE_HUMAN
+Score: 7
+Local coordinates seq1: 210..219
+Local coordinates seq2: 199..208
+GDSGGPLVC
+GDSGSPLVC
+Matches: 8
+Mismatches: 1
+Gaps: 0
+
+================================================================================
+CEL2A_HUMAN  vs  ELNE_HUMAN
+Score: 6
+Local coordinates seq1: 29..47
+Local coordinates seq2: 30..48
+VGGEEARPNSWPWQVSLQ
+VGGRRARPHAWPFMVSLQ
+Matches: 12
+Mismatches: 6
+Gaps: 0
+
